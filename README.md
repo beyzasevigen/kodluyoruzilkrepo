@@ -1,10 +1,29 @@
 # kodluyoruzilkrepo
+
 Kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo
 
-# Projemin Başlığı
+## Installation
 
-Bu bir örnek README.md dosyasıdır. Projem hakkında kısa bir açıklama ekleyebilirsiniz.
+Öncelikle projeyi clonelayın.
 
-## Kurulum
+```
+git clone https://github.com/beyzasevigen/kodluyoruzilkrepo.git
+```
 
-Projeyi yerel bilgisayarınıza klonlamak için şu komutu kullanabilirsiniz:
+## Usage
+
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
+Windows için:
+
+```
+cd kodluyoruzilkrepo
+```
+
+## Contributing
+
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
